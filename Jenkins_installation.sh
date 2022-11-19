@@ -7,6 +7,6 @@ sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/> /etc/apt/sour
 sudo apt update
 sudo apt install jenkins -y
 
-// for unlock the jenkins or temp admin password
+//for unlock the jenkins or temp admin password
 
 sudo cat /var/lib/jenkins/secrets/initiAdminPassword

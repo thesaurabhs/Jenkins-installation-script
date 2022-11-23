@@ -10,4 +10,4 @@ sudo apt install jenkins -y
 
 //for unlock the jenkins or temp admin password
 
-sudo cat /var/lib/jenkins/secrets/initiAdminPassword
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
